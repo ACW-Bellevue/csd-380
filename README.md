@@ -1,2 +1,4 @@
-# csd-380
-Bellevue DevOps Coursework
+# CSD 380 DevOps
+## Contributors
+* Anthony Williams
+* Darren Osier
